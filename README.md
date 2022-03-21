@@ -10,7 +10,7 @@
 
 A Telegram Telethon bot and simple management bot for help ingroup.
 
-Can be found on telegram as [NOINOI_BOT](https://t.me/NOINOI_BOT).
+Can be found on telegram as [KATTA_BOT](https://t.me/KATTA_BOT).
 
 The Support group can be reached out to at [Noinoin Support](https://t.me/CFC_BOT_SUPPORT), where you can ask for help , discover new features, report bugs, and stay in the loop whenever a new update is available. 
 
@@ -18,7 +18,7 @@ News channel as at [Noinoi updates](https://t.me/BAZIGARXD)
 
 The noinoi bot is the one of the powerdyll and superfast group management bot on telegram you can use this repo for mak your own bot 90% working plugins in the bot sorry for some plugins are not working we are working on there as soon as possible we will fix it.
 
-## ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ❓
+## ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏ
 
 
 𝟷) ᴏᴘᴇɴ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ғᴏʀᴋ ɪᴛ . 
