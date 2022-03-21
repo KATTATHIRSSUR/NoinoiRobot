@@ -18,7 +18,7 @@ News channel as at [Noinoi updates](https://t.me/BAZIGARXD)
 
 The noinoi bot is the one of the powerdyll and superfast group management bot on telegram you can use this repo for mak your own bot 90% working plugins in the bot sorry for some plugins are not working we are working on there as soon as possible we will fix it.
 
-## ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ❓
+## ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏ
 
 
 𝟷) ᴏᴘᴇɴ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ғᴏʀᴋ ɪᴛ . 
